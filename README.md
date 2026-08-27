@@ -34,4 +34,4 @@ The feature selection techniques used are:
 
 
 # RESULT:
-       The given dataset was successfully read and cleaned. Feature Scaling was performed to bring the features into a suitable range, and Feature Selection was applied to identify the important features. The processed data was successfully saved to a file. Thus, feature scaling and feature selection were successfully performed.
+The given dataset was successfully read and cleaned. Feature Scaling was performed to bring the features into a suitable range, and Feature Selection was applied to identify the important features. The processed data was successfully saved to a file. Thus, feature scaling and feature selection were successfully performed.
